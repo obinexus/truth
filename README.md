@@ -1,4 +1,4 @@
-# OBINexus Truth
+# OBINexus Truth - "Truth has become power"
 
 **Eziokwu: Heart-Centered Truth Infrastructure for AI Accountability**
 
