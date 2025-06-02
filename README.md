@@ -16,6 +16,8 @@
   - [OBINexus UCHENnamdi](#obinexus-uchennamdi)
   - [OBI-AXIS Research & Development](#obi-axis-research--development)
   - [OBINexus Publishing](#obinexus-publishing)
+  - [OBINexus Truth](#obinexus-truth)
+  - [OBINexus Tactical Defense Assembly](#obinexus-tactical-defense-assembly)
 - [Tier Access Structure](#tier-access-structure)
   - [Tier 1: Open Access](#tier-1-open-access)
   - [Tier 2: Business Access](#tier-2-business-access)
@@ -114,6 +116,38 @@ Comprehensive publishing infrastructure supporting diverse content formats and d
 
 **Philosophy**: Every publication reflects authentic voice and cultural context while maintaining professional publishing standards and broad accessibility.
 
+### OBINexus Truth
+
+**"Eziokwu: Truth from the Heart" - AI Accountability and Verification Infrastructure**
+
+Heart-centered truth infrastructure providing structured frameworks for AI accountability, evidence verification, and regulatory coordination. This division addresses the critical gap between AI advancement and human-centered accountability mechanisms.
+
+**Core Capabilities**:
+- **Evidence Processing**: Multi-format data ingestion with cryptographic verification and metadata standardization
+- **Investigation Coordination**: Structured "visitation" processes for regulatory evaluation and truth verification
+- **Proof Logic Systems**: Declarative-constructive hybrid framework ensuring transparent, reproducible verification
+- **Regulatory Interface**: Coordination pathways for proper legal and compliance evaluation without legal service provision
+
+**Philosophy**: Truth verification operates through culturally grounded processes that preserve human dignity while ensuring technological accountability and transparency.
+
+**Division Objectives**: Under PMP framework, OBINexus Truth maintains policies for evidence integrity, procedures for investigation coordination, and governance protocols ensuring cultural sensitivity in truth verification processes.
+
+### OBINexus Tactical Defense Assembly
+
+**"Ọrụ Ichekwa Ncheta: Defense of Memory & Sovereignty" - Cultural Sovereignty and Strategic Defense**
+
+Aerospace and naval defense architecture reflecting cultural sovereignty, survivability, and strategic remembrance. This division integrates indigenous warcraft principles with modern protocol engineering for ecosystem-based defense systems.
+
+**Core Capabilities**:
+- **Aerospace Division**: AI flight systems, reflex swarm architecture, and mobility-focused intelligence operations
+- **Naval Division**: Command hub coordination, habitat logistics, and anchor-point resource management
+- **Coordination Nexus**: Mutual protocol harmony ensuring air-sea integration with autonomous fallback strategies
+- **Cultural Defense**: Protection of memory, identity, and sovereignty through technologically advanced but culturally grounded systems
+
+**Philosophy**: Defense operates as living ecosystem where every unit supports mutual survival, cultural preservation, and adaptive resilience rather than purely tactical dominance.
+
+**Division Objectives**: Under PMP framework, TDA maintains policies for cultural sovereignty preservation, procedures for ecosystem-based defense coordination, and governance protocols ensuring memory-centered strategic operations.
+
 ## Tier Access Structure
 
 ### Tier 1: Open Access
@@ -187,7 +221,7 @@ The OCS implements a two-by-two trust matrix evaluating:
 
 ### Phase 1: Foundation Year (September 2024 - September 2025)
 
-**Primary Milestone**: Launch of OBINexus official website (`obinexus.org`) with complete system architecture and service documentation
+**Primary Milestone**: Launch of OBINexus official website (`obnx.org`) with complete system architecture and service documentation
 
 **Core Deliverables**:
 
@@ -257,7 +291,7 @@ OBINexus Truth operates under the heart-centered development philosophy prioriti
 
 **Development Environment**: 
 - Primary repository: `github.com/obinexus/truth`
-- Documentation: Available through Publicist.org via `obinexus.org`
+- Documentation: Available through Publicist.org via `obnx.org`
 - Community support: Open Access tier forum participation
 
 **Contribution Process**:
@@ -266,11 +300,11 @@ OBINexus Truth operates under the heart-centered development philosophy prioriti
 3. Submit contributions following No Ghosting Protocol
 4. Participate in collaborative review processes
 
-For partnership inquiries and Tier 2/3 service applications: `obinexus.org/contact`
+For partnership inquiries and Tier 2/3 service applications: `obnx.org/contact`
 
 ## License
 
-This project operates under OBINexus Open Access licensing, permitting distribution and reference with proper attribution. Commercial use requires explicit permission via `obinexus.org/contact`.
+This project operates under OBINexus Open Access licensing, permitting distribution and reference with proper attribution. Commercial use requires explicit permission via `obnx.org/contact`.
 
 **Copyright Notice**: This repository represents the intellectual property of OBINexus and Nnamdi Michael Okpala.
 
@@ -280,4 +314,4 @@ This project operates under OBINexus Open Access licensing, permitting distribut
 
 *OBINexus: Systems from the Heart*
 
-**Website**: [obinexus.org](https://obinexus.org) | **Truth Infrastructure**: [obinexus.org/truth](https://obinexus.org/truth)
+**Website**: [obnx.org](https://obnx.org) | **Truth Infrastructure**: [obnx.org/truth](https://obnx.org/truth)
