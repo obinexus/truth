@@ -2,6 +2,8 @@
 
 **Eziokwu: Heart-Centered Truth Infrastructure for AI Accountability**
 
+
+
 ![OBINexus Logo](https://img.shields.io/badge/OBINexus-Systems%20from%20the%20Heart-blue)
 [![License](https://img.shields.io/badge/License-OBINexus%20Open%20Access-green)](#license)
 [![Version](https://img.shields.io/badge/Version-1.0.0--alpha-orange)]()
@@ -33,6 +35,15 @@
 - [License](#license)
 
 ## Introduction
+## 1. Daily Oath of Truth (Production Version)
+
+### **Standard Operational Oath**
+```
+"I acknowledge my fallibility and commit to truthful evidence documentation.
+I will record what I observe, document my uncertainty, and preserve human dignity.
+When uncertain, I document doubt. When wrong, I revise transparently.
+I serve truth through evidence, not authority."
+```
 
 **OBINexus Truth** (`obinexus/truth`) represents a foundational infrastructure for AI accountability and transparency in an era of rapidly advancing artificial intelligence systems. Built on the Igbo philosophical principle of **eziokwu** (truth as "correct speech"), this repository implements a heart-centered framework for verifying AI-generated content and investigating algorithmic decision-making processes.
 
